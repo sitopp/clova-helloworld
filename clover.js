@@ -22,7 +22,7 @@ exports.handler = clova.Client
             responseHelper.setSimpleSpeech({
                 lang: 'ja',
                 type: 'PlainText',
-                value: 'こんにちわ世界',
+                value: '私はいつも元気です',
             });
  
         }
